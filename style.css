@@ -2,6 +2,8 @@ body {
   font-size: 16px;
   line-height: 1.7;
   text-align: center;
+  display: -ms-flexbox;
+  display: flex;
 }
 h1 {
   font-style: oblique;
