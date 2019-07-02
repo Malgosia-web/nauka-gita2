@@ -1,0 +1,14 @@
+body {
+  font-size: 16px;
+  line-height: 1.7;
+  text-align: center;
+}
+h1 {
+  font-style: oblique;
+}
+h4 {
+  font-style: italic;
+}
+footer {
+  font-size: 12px;
+}
